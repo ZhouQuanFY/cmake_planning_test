@@ -1,9 +1,5 @@
 cmake_minimum_required(VERSION 3.29.0) #cmake最低版本
 
-# set (CMAKE_CXX_COMPILER "/usr/local/gcc/bin/g++") #指定g++编译器路径。(系统中有多个编译器时，可指定)
-
-
-
 project(planning)
 
 set(CMAKE_CXX_STANDARD 11) #C++版本17以上
