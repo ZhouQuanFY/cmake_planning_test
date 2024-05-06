@@ -9,5 +9,6 @@ int main()
     pro.planProcess();
     cout<<"planning end"<<endl;
 
+    system("pause");
     return 0;
 }
